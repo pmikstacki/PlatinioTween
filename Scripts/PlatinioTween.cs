@@ -29,7 +29,7 @@ namespace Platinio.TweenEngine
         {
             if(OnUpdate != null)
                 OnUpdate.Invoke(Time.deltaTime);
-            
+
             for(int n = 0; n < tweens.Count; n++)
             {
                 int lastTweenSize = tweens.Count;
@@ -45,7 +45,6 @@ namespace Platinio.TweenEngine
             }                      
 
         }
-
 
         private void LateUpdate()
         {
@@ -751,7 +750,7 @@ namespace Platinio.TweenEngine
             {
                 if (rect == null)
                     return;
-
+                
                 rect.anchoredPosition = new Vector2(value.x, value.y);
             });
         }
