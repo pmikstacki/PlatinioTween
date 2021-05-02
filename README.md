@@ -2,22 +2,17 @@ PlatinioTween
 ==============
 Copyright (c) 2017 -2019 Unity Project by James Roman
 
-
+Fork by Piotr Mikstacki @ Astrogames 2021
 
 What is this?
 ==============
 This is a Unity3D Asset that let you create animations by code, and works very well animating UI, [here](https://www.youtube.com/watch?v=tv0UpQat9EA)  you can see a tutorial.
+This is slightly adjusted version for use with upcoming asset, FlexUI.
+I have been given permission by original author to use it in above mentioned asset, but i'd feel terrible if I didn't give back to the community.
 
-Getting started
-==============
-Just download and import [this](https://github.com/platinio/PlatinioTween/releases/download/1.52/PlatinioTween.1.52.unitypackage) 
-
-and if you want to access directly the RectTransformHelper
-
-```c#
-using Platinio.UI;
-```
-and you are ready to go.
+What will be changed from the original
+======================================
+There will be some changes to tweening pipeline. I didn't found any bugs (yet), but feel free to test it yourself!
 
 Creating a tween
 ==============
