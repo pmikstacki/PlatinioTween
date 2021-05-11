@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using UnityEngine;
+using Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Tweens;
 
-namespace Platinio.TweenEngine
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Sequences
 {
 	public enum PlayMode
 	{

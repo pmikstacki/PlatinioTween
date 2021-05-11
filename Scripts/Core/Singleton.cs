@@ -1,9 +1,6 @@
-﻿using System.Collections;
-using UnityEngine;
-using UnityEngine.SceneManagement;
-using System;
+﻿using UnityEngine;
 
-namespace Platinio
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core
 {
 
 

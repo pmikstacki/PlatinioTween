@@ -1,5 +1,6 @@
 ﻿using System;
-namespace Platinio.TweenEngine
+
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core
 {
 	public interface IRecyclable <T>
 	{

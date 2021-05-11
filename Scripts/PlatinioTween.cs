@@ -1,10 +1,12 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
+﻿using System;
 using System.Collections.Generic;
-using System;
-using Platinio.UI;
+using Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core;
+using Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Tweens;
+using Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.UI;
+using UnityEngine;
+using UnityEngine.UI;
 
-namespace Platinio.TweenEngine
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts
 {
 
     /// <summary>

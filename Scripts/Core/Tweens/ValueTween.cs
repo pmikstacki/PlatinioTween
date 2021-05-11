@@ -1,5 +1,5 @@
 ﻿
-namespace Platinio.TweenEngine
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Tweens
 {
     public class ValueTween : BaseTween
     {

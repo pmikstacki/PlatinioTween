@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Platinio.UI
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.UI
 {
     public enum PivotPreset
     {

@@ -1,9 +1,9 @@
-﻿using UnityEngine;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEngine;
 
-namespace Platinio.TweenEngine
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Tweens
 {
     public enum UpdateMode
     {

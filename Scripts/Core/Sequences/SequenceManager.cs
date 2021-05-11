@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 
-
-namespace Platinio.TweenEngine
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Sequences
 {
 	public static class SequenceManager
 	{

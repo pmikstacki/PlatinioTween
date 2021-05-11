@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 
-
-namespace Platinio.TweenEngine
+namespace Flex.Scripts.FlexUI.platinioTween.PlatinioTween.Scripts.Core.Tweens
 {
     public class MoveTween : BaseTween
     {
